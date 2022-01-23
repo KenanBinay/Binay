@@ -13,5 +13,5 @@
 </h1>
 
 <a href="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife">
 <a>
