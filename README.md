@@ -49,7 +49,9 @@
     </a>  
   </p>
 
-<p align="center">
+</br>
+
+<p align="left">
    <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
        <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KenanBinay.KenanBinay&style=for-the-badge">
      </a>
