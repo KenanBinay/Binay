@@ -12,6 +12,6 @@
   </p>
 </h1>
 
-https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife
-
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+<a>
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+<a>
