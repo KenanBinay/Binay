@@ -15,17 +15,7 @@
 
 </br>
 
-  <p align="center">
-    <a href="https://twitter.com/Kenan1000Hex">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/kenan-binay-9a4452206/">
-      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://play.google.com/store/apps/developer?id=BINAY">
-      <img src="https://img.shields.io/badge/PlayStore-07db71?&style=for-the-badge&logo=GooglePlay&logoColor=White">
-    </a>
-  </p>
+  
 
 </br>
 
@@ -50,6 +40,18 @@
 </p>
 
 </br>
+
+<p align="Left">
+    <a href="https://twitter.com/Kenan1000Hex">
+      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/kenan-binay-9a4452206/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://play.google.com/store/apps/developer?id=BINAY">
+      <img src="https://img.shields.io/badge/PlayStore-07db71?&style=for-the-badge&logo=GooglePlay&logoColor=White">
+    </a>
+  </p>
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KenanBinay.KenanBinay&style=for-the-badge">
