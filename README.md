@@ -15,6 +15,26 @@
   </p>
 </h1>
 
+<p align="center">
+<a href="https://github.com/KenanBinay/Bucked-BallUnity">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=Bucked-BallUnity&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/KenanBinay/Magnet-Slide">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=Magnet-Slide&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/KenanBinay/Portal-Drop">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=Portal-Drop&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/KenanBinay/SunshineMaskProject">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=SunshineMaskProject&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KenanBinay.KenanBinay&style=for-the-badge">
 <a>
