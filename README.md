@@ -37,7 +37,7 @@
 
 </br>
 
-<p align="left">
+<p align="center">
     <a href="https://twitter.com/Kenan1000Hex">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
@@ -46,12 +46,12 @@
     </a>
     <a href="https://play.google.com/store/apps/developer?id=BINAY">
       <img src="https://img.shields.io/badge/PlayStore-07db71?&style=for-the-badge&logo=GooglePlay&logoColor=White">
-    </a>
-   
-     <a align="right"/href="https://github.com/ESKYoung/shields-io-visitor-counter">
-       <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KenanBinay.KenanBinay&style=for-the-badge">
-     </a>
- 
+    </a>  
   </p>
 
+<p align="center">
+   <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+       <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KenanBinay.KenanBinay&style=for-the-badge">
+     </a>
+ </p>
 
