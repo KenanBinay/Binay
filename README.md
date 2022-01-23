@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"> Socials: </h1>
+
   <p align="center">
     <a href="https://twitter.com/Kenan1000Hex">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
@@ -15,8 +15,6 @@
   </p>
 </h1>
 
-<h1 align="center"> Pinned Repositories: </h1>
-</h1>
 <p align="center">
 <a href="https://github.com/KenanBinay/Bucked-BallUnity">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=Bucked-BallUnity&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
