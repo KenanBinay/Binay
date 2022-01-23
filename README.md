@@ -9,8 +9,6 @@
 
 </br>
 
-</br>
-
   <p align="center">
     <a href="https://twitter.com/Kenan1000Hex">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
