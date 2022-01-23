@@ -9,6 +9,9 @@
     <a href="https://www.linkedin.com/in/kenan-binay-9a4452206/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href="https://play.google.com/store/apps/developer?id=BINAY">
+      <img src="https://img.shields.io/badge/PlayStore-07db71?&style=for-the-badge&logo=GooglePlay&logoColor=White">
+    </a>
   </p>
 </h1>
 
