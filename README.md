@@ -1,7 +1,6 @@
 
 
 
-</h1>
   <p align="center">
     <a href="https://twitter.com/Kenan1000Hex">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
@@ -13,7 +12,7 @@
       <img src="https://img.shields.io/badge/PlayStore-07db71?&style=for-the-badge&logo=GooglePlay&logoColor=White">
     </a>
   </p>
-</h1>
+
 
 <p align="center">
 <a href="https://github.com/KenanBinay/Bucked-BallUnity">
