@@ -15,10 +15,6 @@
 
 </br>
 
-  
-
-</br>
-
 <p align="center">
 <a href="https://github.com/KenanBinay/Bucked-BallUnity">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=Bucked-BallUnity&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
@@ -41,7 +37,7 @@
 
 </br>
 
-<p align="Left">
+<p align="left">
     <a href="https://twitter.com/Kenan1000Hex">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
@@ -51,8 +47,10 @@
     <a href="https://play.google.com/store/apps/developer?id=BINAY">
       <img src="https://img.shields.io/badge/PlayStore-07db71?&style=for-the-badge&logo=GooglePlay&logoColor=White">
     </a>
-  </p>
-
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <p align="right">
+  <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KenanBinay.KenanBinay&style=for-the-badge">
 <a>
+  </p>
+
+
