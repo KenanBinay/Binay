@@ -12,6 +12,6 @@
   </p>
 </h1>
 
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+<a href="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
 <a>
