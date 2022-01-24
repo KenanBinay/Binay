@@ -1,5 +1,10 @@
 
+</br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%231FE7F7&size=25&duration=3000&center=true&vCenter=true&multiline=true&height=70&lines=%E2%80%A2%E2%80%A2%E2%80%A2+Hi+there...+I'm+Kenan+%E2%80%A2%E2%80%A2%E2%80%A2)](https://git.io/typing-svg)
+
+  
+</br>
 
 <a href="https://github.com/KenanBinay/KenanBinay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanBinay&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
