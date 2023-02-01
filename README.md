@@ -1,9 +1,9 @@
 ![Croped](https://user-images.githubusercontent.com/72802504/171498919-1550b571-2272-4c35-bdec-15a7a6e53ddc.gif)
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%231FE7F7&size=25&duration=3000&center=true&vCenter=true&multiline=true&height=70&lines=%E2%80%A2%E2%80%A2%E2%80%A2+Hi+there+%E2%80%A2%E2%80%A2%E2%80%A2)](https://git.io/typing-svg)
-
-  
+<p align="center">
+<a href=#><img src="contributions.svg"></a>
+ </p>
 </br>
 
 <a href="https://github.com/KenanBinay/KenanBinay">
