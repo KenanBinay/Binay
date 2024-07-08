@@ -34,10 +34,6 @@
 <a href="https://github.com/KenanBinay/Bucked-BallUnity">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=Bucked-BallUnity&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
-<span>&nbsp;</span>
-<a href="https://github.com/KenanBinay/Git-CarEnergyDrifting3D">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KenanBinay&repo=Git-CarEnergyDrifting3D&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
 </p>
 
 </br>
